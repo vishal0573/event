@@ -4,12 +4,7 @@ const Footer =()=> (
   <div>
     <footer>
     <div className="container">
-      <p>© Event Manager 2018. All Rights Reserved.</p>
-      <ul className="list-inline">
-        <li className="list-inline-item">
-          <a target="blank" href="https://saud-resume.netlify.com/">My Portfolio</a>
-        </li>
-      </ul>
+      <p>© Event Organiser 2020. All Rights Reserved.</p>
     </div>
   </footer>
   </div>

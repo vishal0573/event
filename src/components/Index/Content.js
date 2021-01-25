@@ -74,27 +74,23 @@ import FontAwesome from 'react-fontawesome';
             {" "} new friends!</h2>
           <ul className="list-inline list-social">
             <li className="list-inline-item social-twitter">
-              <a  target="blank" href="https://www.linkedin.com/in/saud-tauqeer-16a305172/">
+              <a  target="blank" href="https://www.linkedin.com/in/vishal-sharma-0b656396/">
               <FontAwesome name="linkedin" size="lg"/>
               </a>
             </li>
             <li className="list-inline-item social-facebook">
-              <a target="blank" href="https://twitter.com/@Saud31023894">
+              <a target="blank" href="https://twitter.com/@Vishal0573602">
               <FontAwesome name="twitter" size="lg"/>
               </a>
             </li>
             <li className="list-inline-item social-google-plus">
-              <a target="blank" href="mailto:saudtauqeer381@gmail.com?Subject=Hello%20Saud">
+              <a target="blank" href="mailto:vs0573602@gmail.com?Subject=Hello%20vishal">
               <FontAwesome name="google" size="lg"/>
               </a>
             </li>
-            <li className="list-inline-item social-resume">
-              <a target="blank" href="https://saud-resume.netlify.com">
-              <FontAwesome name="male" size="lg"/>
-              </a>
-            </li>
+            
             <li className="list-inline-item social-github">
-              <a target="blank" href="https://github.com/SaudTauqeer">
+              <a target="blank" href="https://github.com/vishal0573">
               <FontAwesome name="github" size="lg"/>
               </a>
             </li>
