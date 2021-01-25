@@ -12,7 +12,7 @@ const Header = () => (
         </div>
         <div className="col-lg-5 my-auto">
                 <div className="screen">
-                  <img src={require('../images/todo-list.jpg')} className="img-fluid" alt="Sticky notes" />
+                  <img src={require('./images/todo-list.jpg')} className="img-fluid" alt="Sticky notes" />
                 </div>
             </div>
           </div>
